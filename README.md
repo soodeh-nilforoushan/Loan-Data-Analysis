@@ -1,3 +1,3 @@
 # Loan-Data-Analysis
 
-This is deep learning project with Keras and Tensorflow, to classify whether the loan is fully paid or not.
+This deep learning project utilizes Keras and TensorFlow to classify whether a loan has been fully paid.
